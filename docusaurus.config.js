@@ -17,12 +17,12 @@ module.exports = {
       },
       items: [
         {
-          href: 'https://github.com/mistermicheels/learning-notes',
+          href: 'https://github.com/ntkduy123/learning-notes',
           label: 'GitHub',
           position: 'left',
         },
         {
-          href: 'https://twitter.com/mistermicheels',
+          href: 'https://www.linkedin.com/in/duy-nguy%E1%BB%85n-th%E1%BB%A5y-kh%C3%A1nh-8648a615a',
           label: 'Linkedin',
           position: 'left',
         }
