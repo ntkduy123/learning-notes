@@ -1,6 +1,7 @@
 # Website
 
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
+URL: https://musing-engelbart-f987c0.netlify.app/
 
 ## Installation
 
