@@ -11,7 +11,7 @@ module.exports = {
       'database/Transaction-isolation-levels',
       'database/Joins'
     ],
-    ObjectOrientedDesign: [
+    'Object Oriented Design': [
       'object-oriented-design/Cohesion-vs-coupling',
       'object-oriented-design/Composition-over-inheritance',
       'object-oriented-design/Dependency-injection',
@@ -46,7 +46,7 @@ module.exports = {
       'networking/OSI-model',
       'networking/TCP-UDP'
     ],
-    OperatingSystem: [
+    'Operating System': [
       'operating-system/Memory-management',
       'operating-system/Process-management'
     ],
