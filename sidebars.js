@@ -18,7 +18,12 @@ module.exports = {
       'object-oriented-design/Dependency-inversion-principle',
       'object-oriented-design/Inversion-of-control',
       'object-oriented-design/OOP-concepts',
-      'object-oriented-design/SOLID-principles'
+      'object-oriented-design/SOLID-principles',
+      {
+        'Design Patterns': [
+          'object-oriented-design/design-patterns/Singleton'
+        ]
+      }
     ],
     Web: [
       'web/API-versioning',
@@ -47,8 +52,34 @@ module.exports = {
       'networking/TCP-UDP'
     ],
     'Operating System': [
+      {
+        Concurrency: [
+          'operating-system/concurrency/Mutexes',
+          'operating-system/concurrency/Semaphore',
+          'operating-system/concurrency/Thread-process'
+        ]
+      },
       'operating-system/Memory-management',
       'operating-system/Process-management'
+    ],
+    'System Design': [
+      {
+        Microservice: [
+          'system-design/microservices/CQRS',
+          'system-design/microservices/Service-discovery',
+          'system-design/microservices/Api-gateway',
+          'system-design/microservices/Circuit-breaker',
+          'system-design/microservices/Rate-limiting',
+          'system-design/microservices/Distributed-tracing'
+        ]
+      }
+    ],
+    'Programming languages': [
+      {
+        Java: [
+          'programming-languages/java/ConcurrentHashMap'
+        ]
+      }
     ],
     Tools: [
       'tools/AWS',
