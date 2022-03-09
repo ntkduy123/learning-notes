@@ -2,7 +2,8 @@ module.exports = {
   someSidebar: {
     About: ['about'],
     Algorithm: [
-      'algorithm/Negative-marking'
+      'algorithm/Negative-marking',
+      'algorithm/Sentinel-node'
     ],
     Database: [
       'database/ACID',
