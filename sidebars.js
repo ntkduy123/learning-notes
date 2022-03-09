@@ -18,8 +18,6 @@ module.exports = {
     'Object Oriented Design': [
       'object-oriented-design/Cohesion-vs-coupling',
       'object-oriented-design/Composition-over-inheritance',
-      'object-oriented-design/Dependency-injection',
-      'object-oriented-design/Dependency-inversion-principle',
       'object-oriented-design/Inversion-of-control',
       'object-oriented-design/OOP-concepts',
       'object-oriented-design/SOLID-principles',
