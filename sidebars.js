@@ -1,9 +1,15 @@
 module.exports = {
   someSidebar: {
     About: ['about'],
-    Algorithm: [
+    'Algorithm': [
       'algorithm/Negative-marking',
-      'algorithm/Sentinel-node'
+      'algorithm/Sentinel-node',
+      {
+        'Coding Patterns': [
+          'algorithm/coding-patterns/Fast-and-Slow-Pointers',
+          'algorithm/coding-patterns/two-pointers/Introduction'
+        ]
+      }
     ],
     Database: [
       'database/ACID',

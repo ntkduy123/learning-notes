@@ -32,6 +32,9 @@ module.exports = {
       style: 'dark',
       copyright: `Copyright © ${new Date().getFullYear()} My Learning Notes, Inc. Built with Docusaurus.`,
     },
+    prism: {
+      additionalLanguages: ['java']
+    },
   },
   presets: [
     [
